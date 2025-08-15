@@ -1,5 +1,5 @@
 # .github/workflows/deploy-staging.yaml
-name: Deploy Jenkins Staging Environment
+name: Deploy Staging ArgoCD App
 
 on:
   push:
